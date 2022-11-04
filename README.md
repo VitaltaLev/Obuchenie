@@ -10,17 +10,6 @@
 
 На этой странице размещены мои проекты и выполненные работы
 
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
-
-
-## Developers
-
-- [Delevoper Name]([GitHub Profile Link](https://github.com/VitaltaLev)
+- [Виталий](https://github.com/VitaltaLev)
 
 ## License
